@@ -1,0 +1,10 @@
+2025-11-29 22:43:44,893 - INFO - Événement créé: Concert (capacité: 5)
+2025-11-29 22:43:44,893 - INFO - Réservation confirmée: Client #1: Alice - 2 place(s)
+2025-11-29 22:43:44,894 - INFO - Réservation confirmée: Client #2: Bob - 3 place(s)
+2025-11-29 22:43:44,894 - WARNING - Capacité dépassée. Client Charlie ajouté à la file d'attente (2 places)
+2025-11-29 22:43:44,894 - ERROR - ReservationException: Capacité dépassée. Charlie ajouté à la file d'attente.
+2025-11-29 22:43:44,894 - INFO - Annulation: Client #1 - 2 place(s) libérées
+2025-11-29 22:43:44,894 - INFO - File d'attente: Réservation confirmée pour Client #3: Charlie - 2 place(s)
+2025-11-29 22:43:44,895 - ERROR - ReservationException: Nom du client requis.
+2025-11-29 22:43:44,895 - ERROR - ReservationException: Nombre de places invalide.
+2025-11-29 22:43:44,895 - ERROR - ReservationException: Nombre de places invalide.

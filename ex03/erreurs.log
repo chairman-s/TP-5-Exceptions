@@ -1,0 +1,9 @@
+2025-11-29 22:46:24,800 - ERROR - CsvException: Le fichier 'articles_valides.csv' est introuvable.
+2025-11-29 22:46:24,801 - ERROR - CsvException: Le fichier 'articles_invalides.csv' est introuvable.
+2025-11-29 22:46:24,801 - ERROR - CsvException: Le fichier 'fichier_inexistant.csv' est introuvable.
+2025-11-29 22:47:54,188 - ERROR - CsvException: Ligne 1: Format invalide. Attendu 3 colonnes, trouvé 2.
+2025-11-29 22:47:54,189 - ERROR - CsvException: Le fichier 'fichier_qui_nexiste_pas.csv' est introuvable.
+2025-11-29 22:47:54,191 - ERROR - CsvException: Ligne 1: Le prix 'abc' n'est pas un nombre valide.
+2025-11-29 22:47:54,192 - ERROR - CsvException: Ligne 1: Le prix ne peut pas être négatif (-10.0).
+2025-11-29 22:48:00,343 - ERROR - CsvException: Ligne 2: Le prix '' n'est pas un nombre valide.
+2025-11-29 22:48:00,343 - ERROR - CsvException: Le fichier 'fichier_inexistant.csv' est introuvable.
